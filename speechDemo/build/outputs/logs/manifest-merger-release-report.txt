@@ -1,0 +1,305 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:2:1-120:12
+INJECTED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:2:1-120:12
+INJECTED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:2:1-120:12
+INJECTED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:2:1-120:12
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\2c48c57b4e4b1937f56bc634740ce2c6\AndroidManifest.xml:2:1-15:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\library-1.4.2.aar\c707ae06514d66435ad64cf008c86121\AndroidManifest.xml:6:1-16:12
+MERGED from [com.android.support:appcompat-v7:27.0.1] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.1.aar\1e27d611b725438fb8c6e4caff8d5a7f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\55d7c83bd8e765624515c515a1ceacd7\AndroidManifest.xml:17:1-27:12
+MERGED from [com.getbase:floatingactionbutton:1.7.0] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\floatingactionbutton-1.7.0.aar\0930a2e404be1a7599833b4c6e88ded6\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:cardview-v7:24.0.0] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\cardview-v7-24.0.0.aar\55fd790e3524a5e8aa84aef2a7e72fcf\AndroidManifest.xml:17:1-24:12
+MERGED from [com.tencent.bugly:crashreport:2.6.6] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\crashreport-2.6.6.aar\43791d30f8d1c8dfd29b18f6b9a1ca33\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:recyclerview-v7:27.0.1] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.1.aar\3dd52aaeb0aa121cf9c69d09a74274f6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.1] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.1.aar\e7f6ccb47cc72fe03b79241a0b3384a4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.1] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.1.aar\4d3a6b20f65c68edd4b0eff78c6a2afa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\cd4009bfdb5d8ace4e18dca3c658baee\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.1.aar\9e4a4bd335d121be736997f937fe2dd8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.1] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.1.aar\5b527d7afb3f691a92b13c74534a82fa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.1] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.1.aar\0557c3e6dc7d63319b5eb89b5e483686\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.1] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.1.aar\d13e35941146f6524896c2c7200c8968\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c735fa36db46bfdcd4cf5cf4a3de1b88\AndroidManifest.xml:17:1-30:12
+INJECTED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:2:1-120:12
+INJECTED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:2:1-120:12
+INJECTED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:2:1-120:12
+	package
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:4:5-36
+		INJECTED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:6:5-40
+		INJECTED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:8:22-72
+uses-permission#android.permission.INTERNET
+ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:11:22-73
+uses-permission#android.permission.READ_LOGS
+ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:12:22-65
+application
+ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:14:5-102:19
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\2c48c57b4e4b1937f56bc634740ce2c6\AndroidManifest.xml:13:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\2c48c57b4e4b1937f56bc634740ce2c6\AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\55d7c83bd8e765624515c515a1ceacd7\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\55d7c83bd8e765624515c515a1ceacd7\AndroidManifest.xml:25:5-20
+MERGED from [com.getbase:floatingactionbutton:1.7.0] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\floatingactionbutton-1.7.0.aar\0930a2e404be1a7599833b4c6e88ded6\AndroidManifest.xml:12:5-20
+MERGED from [com.getbase:floatingactionbutton:1.7.0] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\floatingactionbutton-1.7.0.aar\0930a2e404be1a7599833b4c6e88ded6\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:cardview-v7:24.0.0] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\cardview-v7-24.0.0.aar\55fd790e3524a5e8aa84aef2a7e72fcf\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:24.0.0] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\cardview-v7-24.0.0.aar\55fd790e3524a5e8aa84aef2a7e72fcf\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\cd4009bfdb5d8ace4e18dca3c658baee\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\cd4009bfdb5d8ace4e18dca3c658baee\AndroidManifest.xml:25:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c735fa36db46bfdcd4cf5cf4a3de1b88\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c735fa36db46bfdcd4cf5cf4a3de1b88\AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:17:9-30
+	android:icon
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:15:9-38
+	android:name
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:16:9-33
+activity#com.iflytek.voicedemo.MainActivity2
+ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:19:9-30:20
+	android:screenOrientation
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:24:13-49
+	android:label
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:23:13-34
+	android:configChanges
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:21:13-133
+	android:icon
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:22:13-45
+	android:name
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:20:13-63
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:28:27-74
+activity#com.iflytek.speech.setting.TtsSettings
+ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:31:9-32:20
+	android:name
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:31:19-72
+activity#com.iflytek.speech.setting.IatSettings
+ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:33:9-34:20
+	android:name
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:33:19-72
+activity#com.iflytek.voicedemo.IatDemo
+ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:35:9-39:20
+	android:screenOrientation
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:38:13-49
+	android:configChanges
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:37:13-133
+	android:name
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:36:13-57
+activity#com.iflytek.voicedemo.AsrDemo
+ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:40:9-44:20
+	android:screenOrientation
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:43:13-49
+	android:configChanges
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:42:13-133
+	android:name
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:41:13-57
+activity#com.iflytek.voicedemo.TtsDemo
+ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:45:9-49:20
+	android:screenOrientation
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:48:13-49
+	android:configChanges
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:47:13-133
+	android:name
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:46:13-57
+activity#com.iflytek.voicedemo.IseDemo
+ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:50:9-54:20
+	android:screenOrientation
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:53:13-49
+	android:configChanges
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:52:13-133
+	android:name
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:51:13-57
+activity#com.iflytek.voicedemo.vocalverify.VocalVerifyDemo
+ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:55:9-59:20
+	android:screenOrientation
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:58:13-49
+	android:configChanges
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:57:13-133
+	android:name
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:56:13-77
+activity#com.iflytek.voicedemo.faceonline.OnlineFaceDemo
+ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:60:9-64:20
+	android:screenOrientation
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:63:13-49
+	android:configChanges
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:62:13-133
+	android:name
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:61:13-75
+activity#com.iflytek.voicedemo.IdentifyGroup.GroupManagerActivity
+ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:65:9-69:20
+	android:screenOrientation
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:68:13-49
+	android:configChanges
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:67:13-133
+	android:name
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:66:13-84
+activity#com.iflytek.voicedemo.IdentifyGroup.FaceIdentifyActivity
+ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:70:9-74:20
+	android:screenOrientation
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:73:13-49
+	android:configChanges
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:72:13-133
+	android:name
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:71:13-84
+activity#com.iflytek.voicedemo.IdentifyGroup.VocalIdentifyActivity
+ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:75:9-79:20
+	android:screenOrientation
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:78:13-49
+	android:configChanges
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:77:13-133
+	android:name
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:76:13-85
+activity#com.iflytek.voicedemo.IdentifyGroup.ResultIdentifyActivity
+ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:80:9-84:20
+	android:screenOrientation
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:83:13-49
+	android:configChanges
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:82:13-133
+	android:name
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:81:13-86
+activity#com.iflytek.speech.setting.IseSettings
+ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:85:9-89:20
+	android:screenOrientation
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:88:13-49
+	android:configChanges
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:87:13-133
+	android:name
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:86:13-66
+activity#com.iflytek.voicedemo.chen.activity.MainActivity
+ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:90:9-85
+	android:name
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:90:19-82
+activity#com.iflytek.voicedemo.chen.activity.EditNoteActivity
+ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:91:9-89
+	android:name
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:91:19-86
+meta-data#IFLYTEK_APPKEY
+ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:94:9-96:42
+	android:value
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:96:13-29
+	android:name
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:95:13-42
+meta-data#IFLYTEK_CHANNEL
+ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:97:9-99:44
+	android:value
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:99:13-41
+	android:name
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:98:13-43
+uses-sdk
+ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:104:5-43
+INJECTED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:104:5-43
+INJECTED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:104:5-43
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\2c48c57b4e4b1937f56bc634740ce2c6\AndroidManifest.xml:8:5-11:75
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\2c48c57b4e4b1937f56bc634740ce2c6\AndroidManifest.xml:8:5-11:75
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\library-1.4.2.aar\c707ae06514d66435ad64cf008c86121\AndroidManifest.xml:12:5-14:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\library-1.4.2.aar\c707ae06514d66435ad64cf008c86121\AndroidManifest.xml:12:5-14:41
+MERGED from [com.android.support:appcompat-v7:27.0.1] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.1.aar\1e27d611b725438fb8c6e4caff8d5a7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.1] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.1.aar\1e27d611b725438fb8c6e4caff8d5a7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\55d7c83bd8e765624515c515a1ceacd7\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\55d7c83bd8e765624515c515a1ceacd7\AndroidManifest.xml:21:5-23:54
+MERGED from [com.getbase:floatingactionbutton:1.7.0] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\floatingactionbutton-1.7.0.aar\0930a2e404be1a7599833b4c6e88ded6\AndroidManifest.xml:8:5-10:41
+MERGED from [com.getbase:floatingactionbutton:1.7.0] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\floatingactionbutton-1.7.0.aar\0930a2e404be1a7599833b4c6e88ded6\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:cardview-v7:24.0.0] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\cardview-v7-24.0.0.aar\55fd790e3524a5e8aa84aef2a7e72fcf\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:24.0.0] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\cardview-v7-24.0.0.aar\55fd790e3524a5e8aa84aef2a7e72fcf\AndroidManifest.xml:20:5-43
+MERGED from [com.tencent.bugly:crashreport:2.6.6] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\crashreport-2.6.6.aar\43791d30f8d1c8dfd29b18f6b9a1ca33\AndroidManifest.xml:5:5-7:41
+MERGED from [com.tencent.bugly:crashreport:2.6.6] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\crashreport-2.6.6.aar\43791d30f8d1c8dfd29b18f6b9a1ca33\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.0.1] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.1.aar\3dd52aaeb0aa121cf9c69d09a74274f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.1] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.1.aar\3dd52aaeb0aa121cf9c69d09a74274f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.1] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.1.aar\e7f6ccb47cc72fe03b79241a0b3384a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.1] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.1.aar\e7f6ccb47cc72fe03b79241a0b3384a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.1] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.1.aar\4d3a6b20f65c68edd4b0eff78c6a2afa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.1] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.1.aar\4d3a6b20f65c68edd4b0eff78c6a2afa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\cd4009bfdb5d8ace4e18dca3c658baee\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\cd4009bfdb5d8ace4e18dca3c658baee\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.1.aar\9e4a4bd335d121be736997f937fe2dd8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.1.aar\9e4a4bd335d121be736997f937fe2dd8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.1] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.1.aar\5b527d7afb3f691a92b13c74534a82fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.1] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.1.aar\5b527d7afb3f691a92b13c74534a82fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.1] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.1.aar\0557c3e6dc7d63319b5eb89b5e483686\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.1] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.1.aar\0557c3e6dc7d63319b5eb89b5e483686\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.1] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.1.aar\d13e35941146f6524896c2c7200c8968\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.1] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.1.aar\d13e35941146f6524896c2c7200c8968\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c735fa36db46bfdcd4cf5cf4a3de1b88\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c735fa36db46bfdcd4cf5cf4a3de1b88\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:104:5-43
+INJECTED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:104:5-43
+	tools:overrideLibrary
+		ADDED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\core-0.9.6.0.aar\2c48c57b4e4b1937f56bc634740ce2c6\AndroidManifest.xml:11:9-72
+	android:targetSdkVersion
+		INJECTED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:104:5-43
+		INJECTED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:104:15-40
+		INJECTED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml
+		INJECTED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:106:5-71
+	android:name
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:106:22-68
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:110:5-79
+	android:name
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:110:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:112:5-79
+	android:name
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:112:22-76
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:113:5-72
+	android:name
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:113:22-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:114:5-81
+	android:name
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:114:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:115:2-70
+	android:name
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:115:19-67
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:116:2-77
+	android:name
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:116:19-74
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:118:5-81
+	android:name
+		ADDED from D:\workspace\CustomerProject\SimpleNote\speechDemo\src\main\AndroidManifest.xml:118:22-78
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c735fa36db46bfdcd4cf5cf4a3de1b88\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c735fa36db46bfdcd4cf5cf4a3de1b88\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Shinelon\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c735fa36db46bfdcd4cf5cf4a3de1b88\AndroidManifest.xml:26:13-58
